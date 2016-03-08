@@ -1,5 +1,4 @@
 ---
-layout: nieghborhood
 title:  "Omni | San Francisco | The Mission"
 date:   2016-03-07 23:30:46
 categories: san-francisco

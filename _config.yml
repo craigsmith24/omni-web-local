@@ -8,7 +8,7 @@ description: >
   Convenient on-demand storage. On-premise pickup and delivery. 
   No minimums or contracts. Mobile app with visual catalog of every 
   item you store.
-image: "https://www.beomni.com/img/share-image.jpg"
+image: "share-image.jpg"
 
 # Social Settings
 email: hello@beomni.com
@@ -23,14 +23,41 @@ baseurl: ""
 url: "http://local.beomni.com"
 homepage: "https://www.beomni.com"
 
+sass:
+    sass_dir: vendor
+
 # Region List
 defaults:
-	-
-		scope:
-			path: "san-francisco"
-			type: pages
-		values:
-			title: "Omni | San Francisco"
-			label: "San Francisco"
-			layout: neighborhood
-	  
+    -
+        scope:
+          path: ""
+          type: "pages"
+        values:          
+            section_2_subheader: "Omni can help!"
+            section_3_subheader: "Neighborhood spots we dig"
+            section_4_subheader: "Check out some of our residential building partners"
+    -
+        scope:
+            path: "san-francisco"
+            type: pages
+        values:
+            image: 'regions/san-francisco/index.jpg'
+            title: "Omni | San Francisco"
+            layout: neighborhood
+            description: >
+              San Francisco, officially the City and County of San Francisco, is the cultural, commercial, 
+              and financial center of Northern California and the only consolidated city-county in 
+              California. San Francisco encompasses a land area of about 46.9 square miles
+              on the northern end of the San Francisco Peninsula, which makes it the smallest county in 
+              the state. It has a density of about 18,187 people per square mile, making it the most 
+              densely settled large city in the state of California and the second-most densely populated 
+              major city in the United States after New York City. San Francisco is the fourth-most 
+              populous city in California, after Los Angeles, San Diego and San Jose, and the 
+              13th-most populous city in the United States—with a Census-estimated 2014 population 
+              of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, 
+              and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined 
+              statistical area, the fifth most populous in the nation with an estimated population of 
+              8.6 million.
+            section_1_header: "San Francisco"
+            section_2_header: "Need more space in San Francisco?"
+            section_3_header: "Looking to live in San Francisco?"

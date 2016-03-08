@@ -1,0 +1,111 @@
+@import "variables";
+
+$logo_url: '/vendor/omni-bootstrap/assets/images/logo.svg';
+$header-logo-height: 88px;
+$header-logo-width: 240px;
+$header-margin-bottom: 40px;
+
+header, footer {
+	max-width: 708px;
+	position: relative;
+	margin: 0 auto;
+}
+
+header {
+
+	padding-top: 48px;
+
+	&.navbar {
+		margin-bottom: $header-margin-bottom;
+	}
+	.call-us {
+		transform: translateY(85%);
+		font-size: larger;
+		line-height: 33px;
+		float: right;
+		color: $omni-color-red;
+	}
+	.logo {
+		height: $header-logo-height;
+		width: $header-logo-width;
+		display: inline-block;
+		background: url($logo_url) top left no-repeat scroll transparent;
+		background-size: cover;
+	}
+}
+
+footer {
+	
+	color: $brand-primary;
+	padding: 40px 0 48px;
+	
+	nav {
+		padding: 2em 0;
+		& > a {
+			width: 20%;
+			float: left;
+			overflow: visible;
+			white-space: nowrap;
+		}
+	}
+
+	h5 {
+		margin: 0;
+	}
+
+	.social-icon:hover {
+		text-decoration: none;
+		opacity: 0.4;
+	}
+}
+
+@media (max-width: $screen-xs) {
+	footer {
+		nav {
+			padding: 0;
+			& > a {
+				width: 100%;
+				padding: 20px 0;
+			}
+		}
+	}
+}
+
+@media (max-width: 679px) {
+	header {
+		.call-us {
+			font-size: small;
+		}
+	}
+}
+
+@media (max-width: 624px) {
+	header {
+		.call-us {
+			span {
+				display: block;
+			}
+			line-height: 22px;
+			text-align: right;
+			transform: translateY(50%);
+		}
+	}
+}
+
+@media (max-width: 560px) {
+	header {
+		&.navbar {
+			margin-bottom: $header-margin-bottom/2;
+		}
+		.call-us {
+			transform: translateY(20%);
+		}
+		.logo {
+			height: $header-logo-height/2;
+			width: $header-logo-width/2;
+			display: inline-block;
+			background: url($logo_url) top left no-repeat scroll transparent;
+			background-size: cover;
+		}
+	}
+}
