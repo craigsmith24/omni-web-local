@@ -1,0 +1,26 @@
+@import "compass";
+@import "variables";
+
+h1 {
+	letter-spacing: 1px;
+}
+
+strong {
+	font-family: $omni-font-family-bold;
+}
+
+button, a {
+	&:focus {
+		outline: none 0 !important;
+	}
+}
+
+em {
+	font-style: normal;
+	font-family: museo_sans100_italic, Verdana, Arial, Helvetica, sans-serif;
+}
+
+hr {
+	border-top-width: 3px !important;
+	margin: 32px 40% !important;
+}

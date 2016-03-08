@@ -1,14 +1,36 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Site Metadata Settings
+title: Omni
+keywords: >
+  storage, self-storage, moving, boxes, delivery, on-demand, home, organize, organization, 
+  closet, container, concierge, amenity, residential, building, high-rise, front desk, San Francisco, 
+  SF, CA, California
+description: > 
+  Convenient on-demand storage. On-premise pickup and delivery. 
+  No minimums or contracts. Mobile app with visual catalog of every 
+  item you store.
+image: "https://www.beomni.com/img/share-image.jpg"
 
-# Build settings
-markdown: kramdown
+# Social Settings
+email: hello@beomni.com
+twitter: beomni
+instagram: beomni
+medium: "omni-blog"
+facebook_app_id: 910785135655711
+apple_app_id: 1039456090
+
+# Misc. Settings
+baseurl: ""
+url: "http://local.beomni.com"
+homepage: "https://www.beomni.com"
+
+# Region List
+defaults:
+	-
+		scope:
+			path: "san-francisco"
+			type: pages
+		values:
+			title: "Omni | San Francisco"
+			label: "San Francisco"
+			layout: neighborhood
+	  

@@ -1,0 +1,73 @@
+// third-party colors
+$outlook-color-blue: #0071C5;
+$yahoo-color-purple: #400191;
+$google-color-red: #DB4437;
+$apple-color-gray: #9B9C96;
+$facebook-color-blue: #3B5998;
+
+// omni colors
+$omni-color-red: #DC001B !default;
+$omni-color-ghost: #E5E8E8 !default;
+$omni-color-medium-gray: #D2D2D1 !default;
+$omni-color-cool-gray: #9AA3AD !default;
+$omni-color-dark-gray: #575D65 !default;
+$omni-color-soft-black: #2E3336 !default;
+
+$omni-graphics-blue: #36ABDF !default;
+$omni-graphics-yellow: #F3D130 !default;
+$omni-graphics-red: #C4143A !default;
+
+// omni images
+$omni-image-path: "../images/" !default;
+
+// omni typography
+$omni-font-path: "../fonts" !default;
+$omni-font-family-light-italic:  museo_sans100, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$omni-font-family-regular:  museo_sans300, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$omni-font-family-bold:  museo_sans500, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+// bootstrap screen size overrides
+$screen-xs:                  480px !default;
+$screen-xs-min:              320px !default;
+$screen-phone:               $screen-xs !default;
+
+// bootstrap color overrides
+$brand-primary:         $omni-color-red !default;
+$brand-success:         $omni-graphics-blue !default;
+$brand-info:            $omni-graphics-yellow !default;
+$brand-warning:         $omni-graphics-yellow !default;
+$brand-danger:          $omni-graphics-red !default;
+
+$gray-base:              $omni-color-cool-gray !default;
+$gray:                   $omni-color-cool-gray !default;
+$gray-dark:              $omni-color-dark-gray !default;
+$gray-darker:            $omni-color-soft-black !default;
+$gray-light:             $omni-color-medium-gray !default;
+$gray-lighter:           $omni-color-ghost !default;
+
+$hr-border: $omni-color-red !default;
+
+$input-color: $omni-color-dark-gray !default;
+
+$link-color: $omni-color-red !default;
+$link-hover-color: $omni-color-red !default;
+
+// bootstrap control overrides
+$border-radius-base:  3px !default;
+$border-radius-large: 3px !default;
+$border-radius-small: 3px !default;
+
+// bootstrap typography overrides
+$font-size-h1: 32px !default;
+$font-size-h2: 28px !default;
+$font-family-sans-serif: $omni-font-family-regular !default;
+
+// bootstrap breadcrumb overrides
+$breadcrumb-separator:          "»" !default;
+$breadcrumb-bg:                 transparent !default;
+$breadcrumb-color:              $gray-light !default;
+$breadcrumb-active-color:       $brand-success !default;
+
+
+// include bootstrap variables
+@import "bootstrap-sass/assets/stylesheets/bootstrap/variables";

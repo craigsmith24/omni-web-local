@@ -1,0 +1,12 @@
+// omni path overrides
+$omni-font-path: "/vendor/omni-bootstrap/assets/fonts";
+$omni-image-path: "/vendor/omni-bootstrap/assets/images";
+
+// bootstrap component overrides
+$grid-gutter-width: 60px;
+
+// bootstrap typography overrides
+$icon-font-path: "/vendor/bootstrap-sass/assets/fonts/bootstrap/";
+
+// includes omni and bootstrap variables
+@import "omni-bootstrap/assets/stylesheets/omni/variables";

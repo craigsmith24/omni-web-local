@@ -1,20 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html	xmlns="http://www.w3.org/1999/xhtml"
+		xmlns:og="http://ogp.me/ns#" 
+		xmlns:fb="http://www.facebook.com/2008/fbml">
 
-  {% include head.html %}
+	{% include head.html %}
 
-  <body>
+	<body>
 
-    {% include header.html %}
+		<div id="site">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+			{% include header.html %}
 
-    {% include footer.html %}
+			<div id="content">
+				{{ content }}
+			</div>
 
-  </body>
+			{% include footer.html %}
+		
+		</div>
+
+	</body>	
 
 </html>
