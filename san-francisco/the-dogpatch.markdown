@@ -14,7 +14,7 @@ permalink: /san-francisco/the-Dogpatch/
 places:
     coffee:
         - '<a href="http://piccino.com/coffee-bar">Piccino | 1001 Minnesota St</a>'
-        - '<a href="http://www.neighborsf.com/">Piccino | Neighbor Bakehouse | 2343 3rd St</a>'
+        - '<a href="http://www.neighborsf.com/">Neighbor Bakehouse | 2343 3rd St</a>'
     restaurants:
         - '<a href="http://longbridgepizza.com/">Long Bridge Pizza | 2347 3rd St</a>'
         - '<a href="http://www.serpentinesf.com/">Serpentine | 2495 3rd St</a>'
@@ -22,7 +22,7 @@ places:
     bars:
         - '<a href="http://www.seastar-sf.com/">Sea Star | 2289 3rd St</a>'
         - '<a href="http://dogpatchsaloon.com/">Dogpatch Saloon | 2496 3rd St</a>'
-        - '<a href="http://www.theramprestaurant.com/">The Ramp | 855 Terry A Francois Blvd</a>'
+        - '<a href="http://www.theramprestaurant.com/">The Ramp | 855 Terry Francois Bl</a>'
 buildings:
     - '<a href="http://www.thegantryapts.com/">The Gantry</a>'
     - '<a href="http://knoxdogpatch.com/">Knox Dogptach</a>'
