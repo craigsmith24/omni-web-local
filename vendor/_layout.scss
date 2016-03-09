@@ -85,7 +85,7 @@ footer {
 	nav {
 		padding: 2em 0;
 		& > a {
-			width: 20%;
+			width: 16.66%;
 			float: left;
 			overflow: visible;
 			white-space: nowrap;
@@ -100,16 +100,15 @@ footer {
 		text-decoration: none;
 		opacity: 0.4;
 	}
-}
 
-@media (max-width: $screen-xs) {
-	footer {
+	@media (max-width: $screen-xs) {
 		nav {
 			padding: 0;
 			& > a {
-				width: 100%;
+				width: 33.33%;
 				padding: 20px 0;
 			}
 		}
 	}
+
 }
