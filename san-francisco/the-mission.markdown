@@ -15,7 +15,7 @@ section_3_header: "Omni Picks in the Mission"
 permalink: /san-francisco/the-mission/
 places:
     coffee:
-        - 'Ritual | 1026 Valencia St'
+        - '<a href="yelp.com">Ritual | 1026 Valencia St</a>'
         - 'Four Barrel | 375 Valencia St'
         - 'Grand Coffee | 2663 Mission St'
     restaurants:
