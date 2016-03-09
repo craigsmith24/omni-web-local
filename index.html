@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Service Regions"
+---
+
+<div id="region">
+
+	<h2 class="text-center">We're currently servicing these regions</h2>
+	<h3 id="section_3_subheader" class="text-center">Click a link below to explore</h3>
+
+	<div id="regions" class="constrained-max-width center-block container-fluid">
+		<div class="row">
+		{% for section in site.defaults %}
+			{% if section.scope.path != '' %}
+				<a class="text-center col-xs-12 col-sm-6 col-md-4" href="./{{ section.scope.path }}">{{ section.values.section_1_header }}</a>
+			{% endif %}
+		{% endfor %}
+		</div>
+	</div>
+
+</div>

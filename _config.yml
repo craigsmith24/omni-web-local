@@ -31,7 +31,7 @@ defaults:
     -
         scope:
           path: ""
-          type: "pages"
+          type: pages
         values:          
             section_2_subheader: "Omni can help!"
             section_3_subheader: "Neighborhood spots we dig"
@@ -42,7 +42,7 @@ defaults:
             type: pages
         values:
             image: 'regions/san-francisco/index.jpg'
-            title: "Omni | San Francisco"
+            title: "San Francisco"
             layout: neighborhood
             description: >
               San Francisco, officially the City and County of San Francisco, is the cultural, commercial, 
@@ -60,4 +60,5 @@ defaults:
               8.6 million.
             section_1_header: "San Francisco"
             section_2_header: "Need more space in San Francisco?"
-            section_3_header: "Looking to live in San Francisco?"
+            section_3_header: "Omni Picks in San Francisco"
+            section_4_header: "Looking to live in San Francisco?"

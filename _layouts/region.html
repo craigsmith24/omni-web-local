@@ -1,6 +1,38 @@
 ---
 layout: default
 ---
-<div class="region">
-  {{ content }}
+
+<div id="region">
+
+	<div id="section_1_image" class="text-center" style="background-image:url(/img/{{ page.image | default: site.image }})">
+		<h1 class="text-uppercase">{{ page.section_1_header | default: site.section_1_header }}</h1>
+	</div>
+
+	<p id="description" class="center-block constrained-max-width">
+		{{ page.description | default: site.description }}
+	</p>
+	
+	<h2 id="section_2_header" class="text-center">{{ page.section_2_header | default: site.section_2_header }}</h2>
+	<h3 id="section_2_subheader" class="text-center">{{ page.section_2_subheader | default: site.section_2_subheader }}</h3>
+
+	<div id="section_2_steps" class="constrained-max-width steps container-fluid center-block">
+		<div class="row">
+		{% for step in site.data.section_2_steps %}
+			<div id="section_2_step_{{ forloop.index }}" class="step col-xs-12 col-sm-4">
+				<img src="/img/{{ step.image }}" alt="Image of {{ step.header }}" />
+				<h4>{{ step.header }}</h4>
+				<p>{{ step.subheader }}</p>
+			</div>
+		{% endfor %}
+		</div>
+		<div class="row">
+			<a href="{{ site.homepage }}" class="btn btn-lg btn-primary col-sm-offset-3 col-sm-6 col-xs-offset-2 col-xs-8">{{ site.data.buttons[0] }}</a>
+		</div>
+	</div>
+
+	<h2 id="section_3_header" class="text-center">{{ page.section_3_header | default: site.section_3_header }}</h2>
+	<h3 id="section_3_subheader" class="text-center">{{ page.section_3_subheader | default: site.section_3_subheader }}</h3>
+
+	{{ content }}
+
 </div>

@@ -1,0 +1,15 @@
+---
+layout: region
+section_3_header: "We're currently servicing these neighborhoods"
+section_3_subheader: "Click a link below to explore"
+---
+
+<div id="hoods" class="constrained-max-width center-block container-fluid">
+	<div class="row">
+	{% for hood in site.html_pages %}
+		{% if page.url != hood.url and hood.dir contains page.dir %}
+			<a class="text-center col-xs-12 col-sm-6 col-md-4" href="{{hood.url}}">{{hood.section_1_header}}</a>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>

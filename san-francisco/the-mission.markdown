@@ -1,25 +1,33 @@
 ---
-title:  "Omni | San Francisco | The Mission"
-date:   2016-03-07 23:30:46
-categories: san-francisco
-permalink: /san-francisco/the-mission
+title:  "San Francisco | The Mission"
+image: 'regions/san-francisco/the-mission.jpg'
+section_1_header: "The Mission"
+description: >
+    Having quickly evolved from working-class neighborhood, to hipster enclave, to the
+    high-design-and-gourmet mecca that Mark Zuckerberg now calls home, the
+    Mission is one of the more coveted neighborhoods for renters and home buyers
+    alike, with notoriously tiny inventory… and living spaces. New developments boast
+    7-figure condos with limited closets, and the older split level multi-family Victorian
+    houses are configured with shotgun floor plans that make for small rooms and
+    precious little storage.
+section_2_header: "Need more space in The Mission?"
+section_3_header: "Omni Picks in the Mission"
+permalink: /san-francisco/the-mission/
+places:
+    coffee:
+        - 'Ritual | 1026 Valencia St'
+        - 'Four Barrel | 375 Valencia St'
+        - 'Grand Coffee | 2663 Mission St'
+    restaurants:
+        - 'Al’s Place | 1499 Valencia St'
+        - 'Heirloom Cafe | 2500 Folsom St'
+        - 'Papalote | 24th St'
+    bars:
+        - 'Royal Cuckoo | 3202 Mission St'
+        - 'Elixir | 3200 16th St'
+        - 'Zeitgeist | 199 Valencia St'
+buildings:
+    - '38 Dolores St.'
+    - '2175 Market St.'
+    - 'The Vara | 1600 15th St.'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

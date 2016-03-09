@@ -1,0 +1,12 @@
+-
+    image: 'section_2_step_1.png'
+    header: 'Schedule a pickup'
+    subheader: 'Visit <a href="https://www.beomni.com">the homepage</a> or use <a href="https://www.beomni.com/install">the app</a> to schedule a time for a concierge to visit.'
+-
+    image: 'section_2_step_2.png'
+    header: 'Meet your concierge'
+    subheader: 'An Omni concierge will arrive and collect your items for storage.'
+-
+    image: 'section_2_step_3.png'
+    header: 'See your items'
+    subheader: 'Each of your items is viewable in the app as soon as they’re stored. Voila!'

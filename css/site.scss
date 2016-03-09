@@ -2,5 +2,73 @@
 ---
 @charset "utf-8";
 
-// include site-wide layout
-@import "layout"
+@import "layout", "variables";
+
+#section_1_image {
+	
+	padding: 0 1em;
+	background: none center top/cover no-repeat fixed transparent;
+	
+	h1 {
+
+		color: white;
+		text-shadow: 0 0 0.1em rgba(0, 0, 0, 0.5);
+		font-size: 7em;
+		line-height: 3;
+
+		@media (max-width: 805px) {
+			font-size: 4em;
+		}
+
+		@media (max-width: $screen-xs) {
+			font-size: 2.5em;
+		}
+
+	}
+
+}
+
+#region {
+	p {
+	    text-align: justify;
+	    &#description {
+	    	text-indent: 1em;
+	    	padding: 2em 1em;
+	    	line-height: 2;
+	    }
+	}
+
+	h2, h3 {
+		margin: 0;
+		padding: 0 1em;
+    	line-height: 1.6;
+	}
+
+	h3, p, h5:last-child {
+		margin-bottom: 18px;
+	}
+
+}
+
+.steps {
+	padding: 0;
+	margin-bottom: 4em;
+	.step {
+		padding: 0 1.8em;
+		h4 {
+			margin: 0;
+			font-weight: bold;
+		}
+		p, img, h4, h5 {			
+			width: 100%;
+			max-width: 260px;
+			display: block;
+			margin: 0 auto;
+			position: relative;
+			line-height: 1.6;
+		}
+	}
+	.row, .step h4 {
+		margin-top: 2em;
+	}
+}

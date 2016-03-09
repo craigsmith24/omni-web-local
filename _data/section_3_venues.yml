@@ -1,0 +1,12 @@
+-
+    key: coffee
+    header: Coffee
+    image: 'section_3_venue_1.png'
+-
+    key: restaurants
+    header: Restaurants
+    image: 'section_3_venue_2.png'
+-
+    key: bars
+    header: 'Watering Holes'
+    image: 'section_3_venue_3.png'

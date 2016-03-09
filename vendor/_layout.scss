@@ -5,10 +5,12 @@ $header-logo-height: 88px;
 $header-logo-width: 240px;
 $header-margin-bottom: 40px;
 
-header, footer {
+.constrained-max-width {
 	max-width: 708px;
-	position: relative;
-	margin: 0 auto;
+}
+
+body {
+	min-width: 320px;
 }
 
 header {
@@ -18,6 +20,7 @@ header {
 	&.navbar {
 		margin-bottom: $header-margin-bottom;
 	}
+
 	.call-us {
 		transform: translateY(85%);
 		font-size: larger;
@@ -25,6 +28,7 @@ header {
 		float: right;
 		color: $omni-color-red;
 	}
+
 	.logo {
 		height: $header-logo-height;
 		width: $header-logo-width;
@@ -32,6 +36,7 @@ header {
 		background: url($logo_url) top left no-repeat scroll transparent;
 		background-size: cover;
 	}
+	
 }
 
 footer {

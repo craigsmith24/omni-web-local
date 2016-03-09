@@ -1,6 +1,46 @@
 ---
 layout: region
 ---
-<div class="neighborhood">
-  {{ content }}
+<div id="neighborhood">
+	
+	<div id="section_3_venues" class="constrained-max-width steps container-fluid center-block">
+		<div class="row">
+		{% for venue in site.data.section_3_venues %}
+			{% assign places = page.places[venue.key] %}
+			{% if places != empty %}
+				<div id="section_3_step_{{ forloop.index }}" class="step col-xs-12 col-sm-4">
+					<img src="/img/{{ venue.image }}" alt="Image of {{ venue.header }}" />
+					<h4>{{ venue.header }}</h4>
+					{% for place in places %}
+					<h5>{{ place }}</h5>
+					{% endfor %}
+				</div>
+			{% endif %}
+		{% endfor %}
+		</div>
+		<div class="row">
+			<a href="{{ site.homepage }}/faq" class="btn btn-lg btn-primary col-sm-offset-3 col-sm-6 col-xs-offset-2 col-xs-8">{{ site.data.buttons[1] }}</a>
+		</div>
+	</div>
+
+	<h2 id="section_4_header" class="text-center">{{ page.section_4_header | default: site.section_4_header }}</h2>
+	{% if page.buildings != empty %}
+		<h3 id="section_4_subheader" class="text-center">{{ page.section_4_subheader | default: site.section_4_subheader }}</h3>
+	{% endif %}
+
+	<div id="section_4_buildings" class="steps constrained-max-width container-fluid center-block">
+		{% if page.buildings != empty %}
+			<div class="row">
+			{% for building in page.buildings %}
+				<h5 class="text-center col-xs-12 col-sm-6 col-md-4">{{ building }}</h5>
+			{% endfor %}
+			</div>
+		{% endif %}		
+		<div class="row">
+			<a href="{{ site.homepage }}" class="btn btn-lg btn-primary col-sm-offset-3 col-sm-6 col-xs-offset-2 col-xs-8">{{ site.data.buttons[0] }}</a>
+		</div>
+	</div>
+	
+	{{ content }}
+
 </div>
