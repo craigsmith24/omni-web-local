@@ -67,6 +67,12 @@
 			position: relative;
 			line-height: 1.6;
 		}
+		h4, h5 {
+		    white-space: nowrap;
+		    text-decoration: none;
+		    text-overflow: ellipsis;
+		    overflow: hidden;
+		}
 	}
 	.row, .step h4 {
 		margin-top: 2em;
