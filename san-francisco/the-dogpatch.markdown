@@ -27,4 +27,7 @@ buildings:
     - '<a href="http://www.thegantryapts.com/">The Gantry</a>'
     - '<a href="http://knoxdogpatch.com/">Knox Dogptach</a>'
     - '<a href="http://www.potrerolaunch.com/">Potrero Launch</a>'
+sitemap:
+    priority: 0.7
+    changefreq: monthly
 ---

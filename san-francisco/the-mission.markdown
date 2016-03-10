@@ -30,4 +30,7 @@ buildings:
     - '38 Dolores St.'
     - '2175 Market St.'
     - 'The Vara | 1600 15th St.'
+sitemap:
+    priority: 0.7
+    changefreq: monthly    
 ---

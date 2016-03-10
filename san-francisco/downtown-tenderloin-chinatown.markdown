@@ -25,4 +25,7 @@ buildings:
     - '<a href="http://www.ettasf.com/">Etta SF</a>'
     - '<a href="http://www.experience737.com/">Tower 737</a>'
     - '<a href="http://www.equityapartments.com/san-francisco-bay/downtown-san-francisco/geary-courtyard-apartments">Geary Courtyard Apartments</a>'
+sitemap:
+    priority: 0.7
+    changefreq: monthly
 ---
