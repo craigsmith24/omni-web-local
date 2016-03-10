@@ -3,7 +3,13 @@ title:  "San Francisco | Mission Bay"
 image: 'regions/san-francisco/mission-bay.jpg'
 section_1_header: "Mission Bay"
 description: >
-    One of the newest bona fide neighborhoods to the city of San Francisco, Mission Bay has an eclectic host of outdoor attractions, dining, and nightlife close by, and is crowned by AT&T Park at the neighborhood's edge at 3rd Street. Chock full of modern architecture and well-preserved outdoor space, the area is very much a product of the ideologies behind new urban development in the Bay Area: eco-friendly community living, a balance between indoor and ourdoor space, and making the most of limited square footage. While no official "micro apartments" are advertised, many of the newer housing developments include studio options and "junior" sized units for prices that are not for the faint of heart. 
+    One of the newest bona fide neighborhoods to the city of San Francisco, Mission Bay has an eclectic host of outdoor 
+    attractions, dining, and nightlife close by, and is crowned by AT&T Park at the neighborhood's edge at 3rd Street. 
+    Chock full of modern architecture and well-preserved outdoor space, the area is very much a product of the ideologies 
+    behind new urban development in the Bay Area: eco-friendly community living, a balance between indoor and ourdoor 
+    space, and making the most of limited square footage. While no official "micro apartments" are advertised, many of the 
+    newer housing developments include studio options and "junior" sized units for prices that are not for the faint of 
+    heart. 
 section_2_header: "Need more space in Mission Bay?"
 section_3_header: "Omni Picks in Mission Bay"
 permalink: /san-francisco/mission-bay/
