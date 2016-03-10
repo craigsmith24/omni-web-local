@@ -1,7 +1,7 @@
 ---
 title:  "San Francisco | Downtown/Tenderloin/Chinatown"
 image: 'regions/san-francisco/downtown-tenderloin-chinatown.jpg'
-section_1_header: "Downtown/Tenderloin/Chinatown"
+section_1_header: "Downtown"
 description: >
     As the heart of the city, the Downtown area- including Union Square, the Tenderloin and Chinatown -  is a never-ending 
     barrage of activity, and encompasses all socioeconomic and cultural groups. Home to some of the city’s oldest buildings
