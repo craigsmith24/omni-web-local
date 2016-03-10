@@ -33,7 +33,7 @@ defaults:
           path: ""
           type: pages
         values:          
-            section_2_subheader: "Omni can help!"
+            section_2_subheader: "Want to avoid self storage? Omni can help!"
             section_3_subheader: "Neighborhood spots we dig"
             section_4_subheader: "Check out some of our residential building partners"
     -
