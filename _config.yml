@@ -20,7 +20,7 @@ apple_app_id: 1039456090
 
 # Misc. Settings
 baseurl: ""
-url: "http://local.beomni.com"
+url: "https://local.beomni.com"
 homepage: "https://www.beomni.com"
 
 sass:
