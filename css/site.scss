@@ -21,10 +21,18 @@
 		}
 
 		@media (max-width: $screen-xs) {
-			font-size: 2.5em;
+			h1 {
+				font-size: 2.5em;
+			}
 		}
 
 	}
+
+	@media (max-width: $screen-md) {
+		background-attachment: scroll;
+		background-size: cover;
+	}
+
 
 }
 

@@ -9,8 +9,13 @@ $header-margin-bottom: 40px;
 	max-width: 708px;
 }
 
+html {
+	overflow: auto;
+}
+
 body {
 	min-width: 320px;
+	overflow: hidden;
 }
 
 header {
