@@ -3,11 +3,10 @@ title:  "San Francisco | Hayes Valley/Civic Center"
 image: 'regions/san-francisco/hayes-valley-civic-center.jpg'
 section_1_header: "Hayes Valley/Civic Center"
 description: >
-    A former haven of blue collar industry, the Dogpatch has been ramping up as one of the more desirable residential
-    neighborhoods, with modern condo communities staking claim to renovated warehouses and new construction. Since
-    2005, dozens of diverse businesses have staked their claim in the sprawling industrial spaces, including wineries,
-    manufacturers, retail outposts, art cooperatives, and restaurants. Optimized for the influx of newcomers to the
-    area, storage is limited for businesses and residents alike. 
+    Hayes Valley is home to some of the most beloved restaurants, bars, and shopping in the city of San Francisco, and is 
+    adjacent to the Civic Center’s haven for artistic institutions such as the symphony, opera, ballet, and new SF Jazz 
+    Center. Many condo developments new and old border the neighborhood, while old multi-level Victorians, complete with 
+    narrow stairs, shotgun hallways, and tiny garages dot the tree-lined streets within. 
 section_2_header: "Need more space in Hayes Valley/Civic Center?"
 section_3_header: "Omni Picks in Hayes Valley/Civic Center"
 permalink: /san-francisco/hayes-valley-civic-center/
