@@ -6,7 +6,7 @@ description: >
     Despite a mostly 9-to-5 crowd on the streets by day, many of SF’s late-20th century/early 21st-century high rises are 
     situated among the skyscrapers that create the famous skyline. Apartments and condos are all over the map when it comes
     to size and space.
-section_2_header: "Need more room in the Financial District? Want to avoid self storage?"
+section_2_header: "Need more room in the Financial District?"
 section_3_header: "Omni Picks in the Financial District"
 permalink: /san-francisco/financial-district/
 places:
