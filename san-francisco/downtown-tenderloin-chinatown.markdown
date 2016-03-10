@@ -9,7 +9,7 @@ description: >
     even in the more abrasive Tenderloin area, is at a premium.
 section_2_header: "Need more space in Downtown/Tenderloin/Chinatown?"
 section_3_header: "Omni Picks in Downtown/Tenderloin/Chinatown"
-permalink: /san-francisco/owntown-tenderloin-chinatown/
+permalink: /san-francisco/downtown-tenderloin-chinatown/
 places:
     coffee:
         - '<a href="http://farmtablesf.com/">farm:table | 754 Post St</a>'
