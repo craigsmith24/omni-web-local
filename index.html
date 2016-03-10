@@ -12,7 +12,7 @@ title: "Service Regions"
 		<div class="row">
 		{% for section in site.defaults %}
 			{% if section.scope.path != '' %}
-				<a class="text-center col-xs-12 col-sm-6 col-md-4" href="./{{ section.scope.path }}">{{ section.values.section_1_header }}</a>
+				<a class="text-center col-xs-12" href="./{{ section.scope.path }}">{{ section.values.section_1_header }}</a>
 			{% endif %}
 		{% endfor %}
 		</div>
