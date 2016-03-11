@@ -3,11 +3,11 @@ title:  "San Francisco | SoMa"
 image: 'regions/san-francisco/soma.jpg'
 section_1_header: "SoMa"
 description: >
-    An epicenter of both enterprise and nightlife, SoMa is home to the biggest building developments in San Francisco as 
-    well as a high density of tech startups - making it one of the hottest neighborhoods for recent Bay Area transplants. 
-    While a multitude of gorgeous new high rises boast spectacular views and convenience, many of the luxury condos, lofts 
-    and apartments lack closet space. While some buildings have some storage on site, availability is limited and often 
-    very expensive. 
+    An epicenter of both enterprise and nightlife, SoMa (South of Market) is home to the biggest building developments in 
+    San Francisco as well as a high density of tech startups - making it one of the hottest neighborhoods for recent Bay 
+    Area transplants. While a multitude of gorgeous new high rises boast spectacular views and convenience, many of the 
+    luxury condos, lofts and apartments lack closet space. While some buildings have some storage on site, availability is 
+    limited and often very expensive. 
 section_2_header: "Need more space in SoMa?"
 section_3_header: "Omni Picks in SoMa"
 permalink: /san-francisco/soma/
