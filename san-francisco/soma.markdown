@@ -8,7 +8,7 @@ description: >
     While a multitude of gorgeous new high rises boast spectacular views and convenience, many of the luxury condos, lofts 
     and apartments lack closet space. While some buildings have some storage on site, availability is limited and often 
     very expensive. 
-section_2_header: "Need more space in SoMa"
+section_2_header: "Need more space in SoMa?"
 section_3_header: "Omni Picks in SoMa"
 permalink: /san-francisco/soma/
 places:
