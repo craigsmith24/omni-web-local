@@ -26,7 +26,7 @@ buildings:
         - '<a href="http://www.arterrasanfrancisco.com/">Arterra</a>'
         - '<a href="https://sfmoderncondos.com/park-terrace/">Park Terrace</a>'
         - '<a href="http://ardenbybosa.com/home">Arden</a>'
-        - '<a href="http://www.udr.com/san-francisco-bay-area-apartments/san-francisco/channel-mission-bay/">Channel Mission Bay</a>
+        - '<a href="http://www.udr.com/san-francisco-bay-area-apartments/san-francisco/channel-mission-bay/">Channel Mission Bay</a>'
         - '<a href="http://www.stratasf.com/">Strata at Mission Bay</a>'
         - '<a href="http://venuesf.com/">Venue</a>'
 sitemap:
