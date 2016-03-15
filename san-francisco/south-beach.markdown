@@ -3,13 +3,13 @@ title:  "San Francisco | South Beach"
 image: 'regions/san-francisco/south-beach.jpg'
 section_1_header: "South Beach"
 description: >
-     It’s hard to talk about anything other than the staggering, enviable, spectacular views in South Beach (a total
-     misnomer, there's no sand in sight), which rides alongside the Embarcadero at one of the most scenic edges of the
-     city, extending only a few blocks back into SoMa. South Beach is home to posh residential towers and pier-side 
-     warehouses, as well as innumerable offices in both stately skyscrapers and tucked-away converted factories. The area 
-     hardly feels residential as a result, but is brimming with condominiums and apartments built for long-term living. 
-     There are few options for self-storage outside of what was built into each high rise, and the scarcity has made
-     storage and extra space both coveted and expensive.
+        It’s hard to talk about anything other than the staggering, enviable, spectacular views in South Beach (a total
+        misnomer, there's no sand in sight), which rides alongside the Embarcadero at one of the most scenic edges of the
+        city, extending only a few blocks back into SoMa. South Beach is home to posh residential towers and pier-side
+        warehouses, as well as innumerable offices in both stately skyscrapers and tucked-away converted factories. The 
+        area hardly feels residential as a result, but is brimming with condominiums and apartments built for long-term 
+        living. There are few options for self-storage outside of what was built into each high rise, and the scarcity has 
+        made storage and extra space both coveted and expensive.
 section_2_header: "Need more space in South Beach?"
 section_3_header: "Omni Picks in South Beach"
 permalink: /san-francisco/south-beach/
