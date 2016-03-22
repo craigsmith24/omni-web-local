@@ -35,7 +35,7 @@ defaults:
         values:          
             section_2_subheader: "Want to avoid self storage? Omni can help!"
             section_3_subheader: "Neighborhood spots we dig"
-            section_4_subheader: "Check out some of our residential building partners"
+            section_4_subheader: "Check out our residential building partners"
     -
         scope:
             path: "san-francisco"
