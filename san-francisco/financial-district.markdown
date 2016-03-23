@@ -19,7 +19,7 @@ places:
         - '<a href="http://www.schroederssf.com/">Schroeder’s | 240 Front St</a>'
         - '<a href="http://www.barbaccosf.com/">Barbacco | 220 California St</a>'
     bars:
-        - '<a href="http://www.mikkellerbar.com/">Mikkeller Bar | 34 Mason St</a>'
+        - '<a href="http://www.thehiddenvine.com/">The Hidden Vine | 408 Merchant St</a>'
         - '<a href="http://www.thehouseofshields.com/">House of Shields | 39 New Montgomery St</a>'
 buildings:
     - '<a href="http://www.climbsf.com/for-sale/733-front-st-201/">733 Front Street</a>.'
