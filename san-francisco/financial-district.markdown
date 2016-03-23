@@ -20,7 +20,8 @@ places:
         - '<a href="http://www.barbaccosf.com/">Barbacco | 220 California St</a>'
     bars:
         - '<a href="http://www.thehiddenvine.com/">The Hidden Vine | 408 Merchant St</a>'
-        - '<a href="http://www.thehouseofshields.com/">House of Shields | 39 New Montgomery St</a>'
+        - '<a href="http://www.rickhousebar.com/">Rickhouse | 246 Kearny St</a>'
+        - '<a href="http://www.comstocksaloon.com">Comstock Saloon | 155 Columbus Ave</a>'
 buildings:
     - '<a href="http://www.climbsf.com/for-sale/733-front-st-201/">733 Front Street</a>.'
 sitemap:
