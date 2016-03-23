@@ -15,7 +15,7 @@ places:
         - '<a href="">Philz Coffee | 399 Golden Gate Ave</a>'
         - '<a href=" ">La Boulange | 500 Hayes St</a>'
     restaurants:
-        - '<a href=" ">Chez Maman | 1401 18th St</a>'
+        - '<a href=" ">Chez Maman | 401 Gough St</a>'
         - '<a href=" ">Ananda Fuara | 1298 Market St</a>'
         - '<a href="http://souvlasf.com/">Souvla | 517 Hayes St</a>'
     bars:
