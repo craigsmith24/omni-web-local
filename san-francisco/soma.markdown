@@ -29,10 +29,15 @@ buildings:
     - '<a href="https://sfmoderncondos.com/neighborhoods/south-of-market-soma/the-palms/">The Palms</a>'
     - '<a href="http://www.panoramiclivingsf.com/?gclid=CN-y1M-lt8sCFZNgfgod78EA7g">Panoramic Residences</a>'
     - '<a href="http://stevensonlofts.com/">Stevenson Lofts</a>'
+    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/fremont/stevenson-place">Stevenson Place</a>'
     - '<a href="https://sfmoderncondos.com/neighborhoods/south-of-market-soma/soma-grand/">SOMA Grand</a>'
     - '<a href="http://www.somaresidences.com/">SOMA Residences</a>'
     - '<a href="http://www.somaat788.com/">SOMA at 788</a>'
     - '<a href="http://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments">Soma Square</a>'
+    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-francisco/bennett-lofts-soma-potrero">Bennett Lofts</a>'
+    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-francisco/mosso">Mosso</a>'
+    - '<a href="http://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments">SOMA Square</a>'
+    - '<a href="http://thewilsonsf.com/">The Wilson</a>'
 sitemap:
     priority: 0.7
     changefreq: monthly
