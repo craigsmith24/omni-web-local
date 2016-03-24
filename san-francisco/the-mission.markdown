@@ -27,8 +27,6 @@ places:
         - 'Elixir | 3200 16th St'
         - 'Zeitgeist | 199 Valencia St'
 buildings:
-    - '38 Dolores St.'
-    - '2175 Market St.'
     - 'The Vara | 1600 15th St.'
 sitemap:
     priority: 0.7
