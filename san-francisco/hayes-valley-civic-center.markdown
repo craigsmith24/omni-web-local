@@ -26,6 +26,10 @@ buildings:
     - '<a href="http://rentnema.com/">NEMA</a>'
     - '<a href="http://400grove.com/">400 Grove</a>'
     - '<a href="https://www.sanfranciscocondomania.com/condos/THE-HAYES.php">The Hayes</a>'
+    - '<a href="http://100vanness.com/">100 Van Ness</a>'
+    - '<a href="http://300ivy.com/residences/">300 Ivy Residences</a>'
+    - '<a href="http://388fulton.com/">388 Fulton</a>'
+    - '<a href="http://www.argentaliving.com/">Argenta Apartments</a>'
 sitemap:
     priority: 0.7
     changefreq: monthly
