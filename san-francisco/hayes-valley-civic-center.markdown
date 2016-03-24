@@ -12,8 +12,8 @@ section_3_header: "Omni Picks in Hayes Valley/Civic Center"
 permalink: /san-francisco/hayes-valley-civic-center/
 places:
     coffee:
-        - '<a href="">Philz Coffee | 399 Golden Gate Ave</a>'
-        - '<a href=" ">La Boulange | 500 Hayes St</a>'
+        - '<a href="http://www.philzcoffee.com/">Philz Coffee | 399 Golden Gate Ave</a>'
+        - '<a href="https://www.ritualroasters.com/locations/">Ritual Coffee Roasters | 432b Octavia St</a>'
     restaurants:
         - '<a href=" ">Chez Maman | 401 Gough St</a>'
         - '<a href=" ">Ananda Fuara | 1298 Market St</a>'
