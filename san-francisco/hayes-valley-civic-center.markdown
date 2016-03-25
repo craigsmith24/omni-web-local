@@ -15,9 +15,10 @@ google_maps_link: "https://www.google.com/maps/d/u/0/embed?mid=zhzCiwYZIgW0.k3wW
 alt_header: true
 places:
     coffee:
-        - '<a href="http://www.philzcoffee.com/locations-sf">Philz Coffee | 399 Golden Gate Ave</a>'
+        - '<a href="http://www.philzcoffee.com/">Philz Coffee | 399 Golden Gate Ave</a>'
+        - '<a href="https://www.ritualroasters.com/locations/">Ritual Coffee Roasters | 432b Octavia St</a>'
     restaurants:
-        - '<a href="http://www.chezmamansf.com/ ">Chez Maman | 1401 18th St</a>'
+        - '<a href="http://www.chezmamansf.com/ ">Chez Maman | 401 Gough St</a>'
         - '<a href="http://www.anandafuara.com/">Ananda Fuara | 1298 Market St</a>'
         - '<a href="http://souvlasf.com/">Souvla | 517 Hayes St</a>'
     bars:
@@ -28,6 +29,10 @@ buildings:
     - '<a href="http://rentnema.com/">NEMA</a>'
     - '<a href="http://400grove.com/">400 Grove</a>'
     - '<a href="https://www.sanfranciscocondomania.com/condos/THE-HAYES.php">The Hayes</a>'
+    - '<a href="http://100vanness.com/">100 Van Ness</a>'
+    - '<a href="http://300ivy.com/residences/">300 Ivy Residences</a>'
+    - '<a href="http://388fulton.com/">388 Fulton</a>'
+    - '<a href="http://www.argentaliving.com/">Argenta Apartments</a>'
 sitemap:
     priority: 0.7
     changefreq: monthly

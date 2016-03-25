@@ -29,10 +29,20 @@ places:
 buildings:
     - '<a href="http://www.200brannanlofts.com/">200 Brannan Lofts</a>'
     - '<a href="http://www.udr.com/san-francisco-bay-area-apartments/san-francisco/388-beale/">388 Beale Apartments</a>'
+    - '<a href="http://www.zillow.com/homedetails/333-Beale-St-San-Francisco-CA-94105/2101505254_zpid/">333 Beale Apartments</a>'
     - '<a href="http://www.333fremont.com/">333 Fremont</a>'
     - '<a href="http://infinitysf.org/">The Infinity</a>'
     - '<a href="http://www.highrises.com/san-francisco/one-rincon-hill/">One Rincon Hill</a>'
     - '<a href="http://luminasf.com/">The Lumina</a>'
+    - '<a href="http://vanguardproperties.com/building/The-Watermark">The Watermark</a>'
+    - '<a href="http://www.540leavenworth.com/">540 Leavenworth Apartments</a>'
+    - '<a href="http://www.carmelapartments.com/carmel-rincon-san-francisco-ca">Carmel Rincon Apartments</a>'
+    - '<a href="http://millenniumtowersf.com/">Millenium Towers</a>'
+    - '<a href="http://vanguardproperties.com/building/One-Hawthorne">One Hawthorne</a>'
+    - '<a href="http://www.rincongreen.com/">Rincon Green Apartments</a>'
+    - '<a href="http://www.starwoodpromos.com/stregisresidences/?IM=ST_FEATURESPG_STRESIDENCES">St Regis Residences</a>'
+    - '<a href="http://thelansinghoa.com/Library9444/">The Lansing</a>'
+    - '<a href="https://www.sanfranciscocondomania.com/condos/METROPOLITAN.php">The Metropolitan</a>'
     - '<a href="http://vanguardproperties.com/building/The-Watermark">The Watermark</a>'
 
 sitemap:

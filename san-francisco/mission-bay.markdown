@@ -25,11 +25,14 @@ places:
     bars:
         - '<a href="http://theyardsf.com/">The Yard at Mission Rock | 3rd St</a>'
 buildings:
-        - '<a href="https://sfmoderncondos.com/neighborhoods/mission-bay-neighborhood/the-madrone-sf/">Madrone</a>'
+        - '<a href="http://www.arclightco.com/">Arc Light Apartments</a>'
         - '<a href="http://www.arterrasanfrancisco.com/">Arterra</a>'
-        - '<a href="https://sfmoderncondos.com/park-terrace/">Park Terrace</a>'
         - '<a href="http://ardenbybosa.com/home">Arden</a>'
+        - '<a href="http://www.equityapartments.com/san-francisco-bay/mission-bay/azure-apartments">Azure Apartments</a>'
+        - '<a href="https://sfmoderncondos.com/neighborhoods/mission-bay-neighborhood/the-beacon/">The Beacon</a>'
         - '<a href="http://www.udr.com/san-francisco-bay-area-apartments/san-francisco/channel-mission-bay/">Channel Mission Bay</a>'
+        - '<a href="https://sfmoderncondos.com/neighborhoods/mission-bay-neighborhood/the-madrone-sf/">Madrone</a>'
+        - '<a href="https://sfmoderncondos.com/park-terrace/">Park Terrace</a>'
         - '<a href="http://www.stratasf.com/">Strata at Mission Bay</a>'
         - '<a href="http://venuesf.com/">Venue</a>'
 sitemap:
