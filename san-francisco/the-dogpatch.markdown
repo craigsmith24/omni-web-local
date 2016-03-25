@@ -2,6 +2,7 @@
 title:  "San Francisco | The Dogpatch"
 image: 'regions/san-francisco/the-dogpatch.jpg'
 section_1_header: "The Dogpatch"
+section_1_alt_header: "in The Dogpatch"
 description: >
     A former haven of blue collar industry, the Dogpatch has been ramping up as one of the more desirable residential
     neighborhoods, with modern condo communities staking claim to renovated warehouses and new construction. Since
@@ -11,6 +12,8 @@ description: >
 section_2_header: "Need more space in the Dogpatch?"
 section_3_header: "Omni Picks in the Dogpatch"
 permalink: /san-francisco/the-dogpatch/
+google_maps_link: "https://www.google.com/maps/d/u/0/embed?mid=zhzCiwYZIgW0.kSqJSmfRkDvM"
+alt_header: true
 places:
     coffee:
         - '<a href="http://piccino.com/coffee-bar">Piccino | 1001 Minnesota St</a>'

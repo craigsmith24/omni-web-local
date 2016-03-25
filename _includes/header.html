@@ -1,6 +1,35 @@
 <header class="center-block constrained-max-width navbar navbar-static-top">
-	<div class="call-us">
-		<strong>Open 7 days a week.</strong>
-	</div>
-	<a class="logo" href="{{ site.homepage }}"></a>
+
+  <div class="call-us">
+    {% if page.alt_header %}
+      <strong class="black-font">Questions?</strong><span class="black-font">Email us: </span><a class="black-font" href="mailto:hello@beomni.com"><u>hello@beomni.com</u></a>  
+    {% else %}
+      <strong> Open 7 days a week.</strong>
+    {% endif %}
+  </div>
+  
+  <a class="logo" href="{{ site.homepage }}"></a>
+
+  {% if page.alt_header %}
+    <div class="row">
+      <h2 class="text-center"> Omni's on-demand storage service <br/> provides pickup and delivery {{ page.section_1_alt_header | default: site.section_1_header }}</h2>
+    </div>
+
+    <div id="pickup-button-spacing" class="row">
+      <a href="https://www.beomni.com" class="btn btn-lg btn-primary col-sm-offset-3 col-sm-6 col-xs-offset-2 col-xs-8">{{ site.data.buttons[2] }} {{ %}}</a>
+    </div>
+    <br/>
+    <br/>
+    <div id="pickup-button-spacing" class="row">
+      <div class="col-xs-4">
+        <h4 class="red-font text-right"><a href="{{hood.url}}#section_2_header">Omni's Service</a></h4>
+      </div>
+      <div id="center-div" class="col-xs-4">
+        <h4 class="red-font text-center"><a href="{{hood.url}}#section_3_header">Neighborhood Picks</a></h4>
+      </div>
+      <div class="col-xs-4">
+        <h4 class="red-font"><a href="{{hood.url}}#section_4_subheader">Building Partners</a></h4>
+      </div>
+    </div>
+  {% endif %}
 </header>

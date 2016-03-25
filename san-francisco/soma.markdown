@@ -2,6 +2,7 @@
 title:  "San Francisco | SoMa"
 image: 'regions/san-francisco/soma.jpg'
 section_1_header: "SoMa"
+section_1_alt_header: "in Soma"
 description: >
     An epicenter of both enterprise and nightlife, SoMa (South of Market) is home to the biggest building developments in 
     San Francisco as well as a high density of tech startups - making it one of the hottest neighborhoods for recent Bay 
@@ -11,6 +12,8 @@ description: >
 section_2_header: "Need more space in SoMa?"
 section_3_header: "Omni Picks in SoMa"
 permalink: /san-francisco/soma/
+google_maps_link: "https://www.google.com/maps/d/u/0/embed?mid=zhzCiwYZIgW0.kk_wQKagUnRI"
+alt_header: true
 places:
     coffee:
         - '<a href="https://sightglasscoffee.com/">Sightglass Coffee | 270 7th Street</a>'
@@ -29,15 +32,10 @@ buildings:
     - '<a href="https://sfmoderncondos.com/neighborhoods/south-of-market-soma/the-palms/">The Palms</a>'
     - '<a href="http://www.panoramiclivingsf.com/?gclid=CN-y1M-lt8sCFZNgfgod78EA7g">Panoramic Residences</a>'
     - '<a href="http://stevensonlofts.com/">Stevenson Lofts</a>'
-    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/fremont/stevenson-place">Stevenson Place</a>'
     - '<a href="https://sfmoderncondos.com/neighborhoods/south-of-market-soma/soma-grand/">SOMA Grand</a>'
     - '<a href="http://www.somaresidences.com/">SOMA Residences</a>'
     - '<a href="http://www.somaat788.com/">SOMA at 788</a>'
     - '<a href="http://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments">Soma Square</a>'
-    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-francisco/bennett-lofts-soma-potrero">Bennett Lofts</a>'
-    - '<a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-francisco/mosso">Mosso</a>'
-    - '<a href="http://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments">SOMA Square</a>'
-    - '<a href="http://thewilsonsf.com/">The Wilson</a>'
 sitemap:
     priority: 0.7
     changefreq: monthly

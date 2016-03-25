@@ -2,6 +2,7 @@
 title:  "San Francisco | Downtown/Tenderloin/Chinatown"
 image: 'regions/san-francisco/downtown-tenderloin-chinatown.jpg'
 section_1_header: "Downtown"
+section_1_alt_header: "Downtown"
 description: >
     As the heart of the city, the Downtown area- including Union Square, the Tenderloin and Chinatown -  is a never-ending 
     barrage of activity, and encompasses all socioeconomic and cultural groups. Home to some of the city’s oldest buildings
@@ -10,6 +11,8 @@ description: >
 section_2_header: "Need more space in Downtown/Tenderloin/Chinatown?"
 section_3_header: "Omni Picks in Downtown/Tenderloin/Chinatown"
 permalink: /san-francisco/downtown-tenderloin-chinatown/
+google_maps_link: "https://www.google.com/maps/d/u/0/embed?mid=zhzCiwYZIgW0.kOXdsnjHrTEI"
+alt_header: true
 places:
     coffee:
         - '<a href="http://farmtablesf.com/">farm:table | 754 Post St</a>'
@@ -22,7 +25,7 @@ places:
         - '<a href="http://www.charliepalmer.com/burritt-room-and-tavern/">Burritt Room & Tavern | 417 Stockton St</a>'
         - '<a href="http://tradbar.com/">Tradition | 441 Jones St</a>'
 buildings:
-    - '<a href="http://www.540leavenworth.com/">540 Leavenworth Apartments</a>'
+    - '<a href="http://www.ettasf.com/">Etta SF</a>'
     - '<a href="http://www.experience737.com/">Tower 737</a>'
     - '<a href="http://www.equityapartments.com/san-francisco-bay/downtown-san-francisco/geary-courtyard-apartments">Geary Courtyard Apartments</a>'
 sitemap:
