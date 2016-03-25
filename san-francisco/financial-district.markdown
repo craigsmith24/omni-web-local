@@ -26,7 +26,7 @@ places:
         - '<a href="http://www.rickhousebar.com/">Rickhouse | 246 Kearny St</a>'
         - '<a href="http://www.comstocksaloon.com">Comstock Saloon | 155 Columbus Ave</a>'
 buildings:
-    - '<a href="http://www.climbsf.com/for-sale/733-front-st-201/">733 Front Street</a>.'
+    - '<a href="http://www.climbsf.com/for-sale/733-front-st-201/">333 Front Street</a>.'
 sitemap:
     priority: 0.7
     changefreq: monthly    

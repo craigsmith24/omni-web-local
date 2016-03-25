@@ -25,7 +25,7 @@ places:
         - '<a href="http://www.charliepalmer.com/burritt-room-and-tavern/">Burritt Room & Tavern | 417 Stockton St</a>'
         - '<a href="http://tradbar.com/">Tradition | 441 Jones St</a>'
 buildings:
-    - '<a href="http://www.ettasf.com/">Etta SF</a>'
+    - '<a href="http://www.540leavenworth.com/">540 Leavenworth Apartments</a>'
     - '<a href="http://www.experience737.com/">Tower 737</a>'
     - '<a href="http://www.equityapartments.com/san-francisco-bay/downtown-san-francisco/geary-courtyard-apartments">Geary Courtyard Apartments</a>'
 sitemap:

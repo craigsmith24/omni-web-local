@@ -30,9 +30,7 @@ places:
         - '<a href="http://www.elixirsf.com/">Elixir | 3200 16th St</a>'
         - '<a href="http://www.zeitgeistsf.com/">Zeitgeist | 199 Valencia St</a>'
 buildings:
-    - '<a href="http://38doloressf.com/">38 Dolores St.</a>'
-    - '<a href="http://www.2175market.com/">2175 Market St.</a>'
-    - '<a href="http://www.vara-sf.com/">The Vara | 1600 15th St.</a>'
+        - '<a href="http://www.vara-sf.com/">The Vara | 1600 15th St.</a>'
 sitemap:
     priority: 0.7
     changefreq: monthly    
