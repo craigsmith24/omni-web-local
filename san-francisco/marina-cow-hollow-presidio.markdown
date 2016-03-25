@@ -2,6 +2,7 @@
 title:  "San Francisco | The Marina & The Presidio"
 image: 'regions/san-francisco/marina-cow-hollow-presidio.jpg'
 section_1_header: "The Marina & The Presidio"
+section_1_alt_header: "in The Marina & The Presidio"
 description: >
     The majestic downslope of Pacific Heights gives way to this area - overlooking the Golden Gate and gorgeous views 
     beyond the Bay. The homes can be stately (maybe gargantuan), as are many of the older apartment buildings. While space 
@@ -11,6 +12,8 @@ description: >
 section_2_header: "Need more room in the Marina, Cow Hollow or The Presidio?"
 section_3_header: "Omni Picks in the Marina/Cow Hollow & The Presidio"
 permalink: /san-francisco/marina-cow-hollow-presidio/
+google_maps_link: "https://www.google.com/maps/d/u/0/embed?mid=zhzCiwYZIgW0.kPwo3Vzx-T9Q"
+alt_header: true
 places:
     coffee:
         - '<a href="http://www.lemaraisbakery.com/">Le Marais | 2066 Chestnut St</a>'
