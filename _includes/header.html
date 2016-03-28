@@ -11,24 +11,23 @@
   <a class="logo" href="{{ site.homepage }}"></a>
 
   {% if page.alt_header %}
-    <div class="row">
+    <div id="neighborhood-header-message" class="row">
       <h2 class="text-center"> Omni's on-demand storage service <br/> provides pickup and delivery {{ page.section_1_alt_header | default: site.section_1_header }}</h2>
     </div>
 
     <div id="pickup-button-spacing" class="row">
       <a href="https://www.beomni.com" class="btn btn-lg btn-primary col-sm-offset-3 col-sm-6 col-xs-offset-2 col-xs-8">{{ site.data.buttons[2] }} {{ %}}</a>
     </div>
-    <br/>
-    <br/>
+    
     <div id="pickup-button-spacing" class="row">
-      <div class="col-xs-4">
-        <h4 class="red-font text-right"><a href="{{hood.url}}#section_2_header">Omni's Service</a></h4>
+      <div class="col-xs-4 link-container">
+        <h5 class="red-font text-center"><a href="{{hood.url}}#section_2_header">Omni's Service</a></h5>
       </div>
-      <div id="center-div" class="col-xs-4">
-        <h4 class="red-font text-center"><a href="{{hood.url}}#section_3_header">Neighborhood Picks</a></h4>
+      <div id="center-div" class="col-xs-4 link-container">
+        <h5 class="red-font text-center"><a href="{{hood.url}}#section_3_header">Neighborhood Picks</a></h5>
       </div>
-      <div class="col-xs-4">
-        <h4 class="red-font"><a href="{{hood.url}}#section_4_subheader">Building Partners</a></h4>
+      <div class="col-xs-4 link-container">
+        <h5 class="red-font text-center"><a href="{{hood.url}}#section_4_subheader">Building Partners</a></h5>
       </div>
     </div>
   {% endif %}
